@@ -1,6 +1,6 @@
 # WOW THIS IS INTRESTING
 
-```
+```python
 import pygame
 
 pygame.init()
